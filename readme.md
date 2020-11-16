@@ -1,5 +1,5 @@
-Stack: `Gradle, Groovy, TestNG, Selenuim`
-Pattern: `PageObject`
+**Stack:** `Gradle, Groovy, TestNG, Selenuim`
+**Pattern:** `PageObject`
 
 **src/test/groovy/Pages** - contains Pageobject clases and also a Base page class
 
