@@ -2,8 +2,10 @@
 
 **src/test/groovy/Tests** - contains Test plan with tests
 
-**src/test/groovy/Utils** - contains configurations for search params and configuration for enviroment
+**src/test/groovy/Utils** - contains configurations for search params and configuration for enviroment and url
 
 `- To run tests you need a compatible chrome driver for your local chrome browser version`
 
 class: `Tests.SearchTest` method: `isThereFlightBelowPrice`
+
+my enviroment: `Macos Catalina, Chrome Version 86.0.4240.198, Webdriver for hrome Version 86.0.4240.198`
