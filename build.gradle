@@ -1,0 +1,31 @@
+plugins {
+    id 'groovy'
+}
+
+//apply plugin: 'groovy'
+
+group 'org.Homework20201114'
+version '1.0-SNAPSHOT'
+
+repositories {
+//    mavenLocal()
+    mavenCentral()
+//    jcenter()
+}
+
+dependencies {
+    implementation 'org.codehaus.groovy:groovy-all:2.3.11'
+    testImplementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.9.1'
+    testImplementation group: 'org.testng', name: 'testng', version: '7.1.0'
+}
+
+
+//test {
+//    useTestNG()
+//    scanForTestClasses = false
+////    include '**/*'
+////
+////    beforeTest { descriptor ->
+////        logger.lifecycle("Gradle running test: ${descriptor}")
+////    }
+//}
