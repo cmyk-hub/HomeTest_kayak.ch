@@ -8,4 +8,4 @@
 
 class: `Tests.SearchTest` method: `isThereFlightBelowPrice`
 
-my enviroment: `Macos Catalina, Chrome Version 86.0.4240.198, Webdriver for hrome Version 86.0.4240.198`
+my enviroment: `Macos Catalina, Chrome Version 86.0.4240.198, Webdriver for Chrome Version 86.0.4240.198`
